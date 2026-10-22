@@ -1,4 +1,4 @@
-# Hi there 👋, I'm an Aspiring IT Specialist
+# Hi there 👋!, I'm an Aspiring IT Specialist
 
 I'm currently completing my Diploma in Information Technology at Berea Technical College.
 
